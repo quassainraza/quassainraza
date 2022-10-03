@@ -29,3 +29,14 @@ Here are some ideas to get you started:
     Hello There!
   </h1>
 </div>
+
+### :man_technologist: About Me :
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+
+- :telescope: I’m a Student at the National University of Computer and Emerging Sciences  FAST ISLAMABAD
+
+- :sunny: I participated in the HacktoberFest 2022, Contributed and generated 4/PRs in Open Source Project(Ortilius) :video_game:
+
+- :seedling: Exploring the fields of Software Engineering.
+
+- :zap: In my free time, I build creative projects and read about the latest technologies.
