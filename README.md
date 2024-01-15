@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 </p>
 
 ### :man_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Software Engineer for Mobile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m a Student at the National University of Computer and Emerging Sciences  FAST ISLAMABAD
+- :telescope: I’m a Graduate from National University of Computer and Emerging Sciences  FAST ISLAMABAD
 
-- :sunny: I participated in the HacktoberFest 2022, Contributed and generated 4/PRs in Open Source Project(Ortilius) :video_game:
+- :sunny: I have developed responsive mobile applications :video_game:
 
 - :seedling: Exploring the fields of Software Engineering.
 
-- :zap: In my free time, I build creative projects and read about the latest technologies.
+- :zap: In my free time, I build creative mobile projects and read about the latest technologies.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
