@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611uqsl2m96ii57mpqky19mjajf8w0tqpbudkoyvmy7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"
+  />
   <div id="badges">
     <a href="https://www.linkedin.com/in/quassainraza/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
